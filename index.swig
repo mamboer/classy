@@ -47,10 +47,16 @@
         <div class="ui page grid">
             <div class="column">
                 <h1>Installation</h1>
+
+                <h3>Install manually</h3>
                 <p>Add the classy.js to your page:</p>
                 <pre><code data-language="html">&lt;script src="/path/to/classy.min.js"&gt;&lt;/script&gt;</code></pre>
                 <p>Or, load the classy.js using your AMD loader like ```requirejs```</p>
                 <pre><code data-language="javascript">define(['classy'],function(classy){/* module logic goes here */});</code></pre>
+
+                <h3>Install via Bower</h3>
+                <pre><code data-language="shell">bower install classie --save</code></pre>
+
             </div>
         </div>
     </div>
