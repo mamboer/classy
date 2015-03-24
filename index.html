@@ -55,7 +55,7 @@
                 <pre><code data-language="javascript">define(['classy'],function(classy){/* module logic goes here */});</code></pre>
 
                 <h3>Install via Bower</h3>
-                <pre><code data-language="shell">bower install classie --save</code></pre>
+                <pre><code data-language="shell">bower install classor --save</code></pre>
 
             </div>
         </div>
