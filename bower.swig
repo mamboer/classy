@@ -17,6 +17,7 @@
     "test",
     "tests",
     "*.swig",
-    "*.json"
+    "*.json",
+    "site"
   ]
 }
